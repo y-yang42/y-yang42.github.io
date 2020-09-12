@@ -1,6 +1,8 @@
 title: Y. Yang
 #description: 
-author: "Y. Yang"
+author:
+  name: Y. Yang
+  email: yb.yang42@gmail.com
 
 
 theme: minima
