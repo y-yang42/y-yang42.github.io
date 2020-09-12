@@ -18,7 +18,7 @@ minima:
 
 # Minima: custom header links
 header_pages:
-  - _pages/index.md
+#   - _pages/index.md
   - _pages/about.md
   - _pages/archive.md
 
