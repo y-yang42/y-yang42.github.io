@@ -1,14 +1,13 @@
 title: My blog
 description: My very nice blog
-author: "Jorge Sanz"
+author: "Y Yang"
 
 
 theme: minima
 
 # Minima social links
-twitter_username: xurxosanz
-github_username: jsanz
-linkedin_username: jsanz
+github_username: y-yang42
+linkedin_username: yibo-yang
 rss: rss
 
 # Minima: show excerpts in the frontpage
@@ -19,7 +18,7 @@ minima:
 
 # Minima: custom header links
 header_pages:
-  - _pages/frontpage.md
+  - _pages/index.md
   - _pages/about.md
   - _pages/archive.md
 
@@ -28,8 +27,6 @@ include:
 
 exclude: 
     - .gitignore
-    - docker-compose.yml
     - Gemfile
     - Gemfile.lock
-    - LICENSE
     - README.md
